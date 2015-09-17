@@ -1,5 +1,5 @@
 # l3373r
-I was bored and had coffee, needles to say it came to me.
+I was bored and had coffee, needless to say it came to me.
 
 ## Usage
 
