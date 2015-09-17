@@ -1,2 +1,10 @@
 # l3373r
-Npm module for converting this "Hello world!" into this: "h3ll0 w0Rld!"
+I was bored and had coffee, needles to say it came to me.
+
+## Usage
+
+###from the command line:
+```node l33t3r.js "the text you want to leet"```
+
+### or you can make it executable and
+```./l33t3r.js "the text bla bla bla"```
